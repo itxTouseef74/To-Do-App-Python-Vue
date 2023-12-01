@@ -74,10 +74,22 @@ This Todo App is a full-stack application that combines the power of Vue.js and 
 1. **User Authentication:**
    - Sign up for a new account or log in if you already have one.
 
-2. **Todo Management:**
+![image](https://github.com/itxTouseef74/To-Do-App-Python-Vue/assets/116633040/74d0a695-bcb1-4187-befb-2775b4678257)
+
+![image](https://github.com/itxTouseef74/To-Do-App-Python-Vue/assets/116633040/dde3bf09-e3bf-4085-a55d-d178dadf536a)
+
+
+
+3. **Todo Management:**
    - Add new tasks with title, description, date, and completion status.
    - Update tasks with the latest information.
    - Delete tasks that are no longer needed.
+
+
+![image](https://github.com/itxTouseef74/To-Do-App-Python-Vue/assets/116633040/16cdf11e-abf7-4ff0-bd60-0f8f8acaa80a)
+
+![image](https://github.com/itxTouseef74/To-Do-App-Python-Vue/assets/116633040/dea17505-f80c-4a2c-9b21-66dd5e792205)
+
 
 ## Contributing
 
